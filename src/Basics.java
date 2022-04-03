@@ -18,7 +18,6 @@ public class Basics {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-
 		// given: all input data
 		// when: submit the API
 		// then: validate the response
